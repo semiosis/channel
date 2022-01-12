@@ -1,9 +1,11 @@
 # channel
 
-channel v1.0
+chann.el v1.0
 - Run a chatbot that sees only a terminal (program independent)
-channel v2.0
+  - The chatbot may have multiple personalities. i.e. a Mad-Hatter's Tea-Party
+chann.el v2.0
 - Give an AGI control of a terminal
+  - Achieve this using natural-language-to-code
 
 ## Installation
 
